@@ -27,5 +27,7 @@ Very simply said, the compiler is a program that converts source code into a pro
 
 And that's it! In the next lesson, we are going to put this lesson into practice and create our very first C++ program.
 
+[Next](2-your-first-cxx-program.html)
+
 [back to homepage](../../../index.html)
 
